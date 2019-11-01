@@ -1,2 +1,2 @@
 # hello_world
-Git Test
+Questo è solo un progetto di prova per capire come funziona Git e Github
